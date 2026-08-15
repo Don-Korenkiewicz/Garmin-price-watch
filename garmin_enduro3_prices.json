@@ -3,25 +3,25 @@
     "amazon": {
       "last_price": 749.99,
       "lowest_seen": 749.99,
-      "last_checked": "2026-08-15T13:15:39Z",
+      "last_checked": "2026-08-15T22:12:02Z",
       "url": "https://www.amazon.com/Garmin-EnduroTM-Ultraperformance-Smartwatch-Built/dp/B0DD5N9G17"
     },
     "garmin": {
       "last_price": 899.99,
       "lowest_seen": 899.99,
-      "last_checked": "2026-08-15T13:15:39Z",
+      "last_checked": "2026-08-15T22:12:02Z",
       "url": "https://www.garmin.com/en-US/p/851039/"
     },
     "bestbuy": {
       "last_price": 749.99,
       "lowest_seen": 749.99,
-      "last_checked": "2026-08-15T13:15:39Z",
+      "last_checked": "2026-08-15T22:12:02Z",
       "url": "https://www.bestbuy.com/product/garmin-enduro-3-solar-gps-smartwatch-51mm-fiber-reinforced-polymer-carbon-gray-dlc-titanium-2024/JXF9YF5T44"
     },
     "rei": {
       "last_price": 749.99,
       "lowest_seen": 749.99,
-      "last_checked": "2026-08-15T13:15:39Z",
+      "last_checked": "2026-08-15T22:12:02Z",
       "url": "https://www.rei.com/product/247419/garmin-enduro-3"
     }
   }
